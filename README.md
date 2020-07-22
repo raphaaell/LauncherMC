@@ -1,6 +1,6 @@
 # LauncherMC
 
-A launcher for minecraft.
+A launcher for minecraft with javafx and some libraries that you can find in the "libs" folder.
 
 ## Contributing
 Made with a tutorial on youtube.
